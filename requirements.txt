@@ -2,7 +2,6 @@ Quart
 pyjwt
 aiohttp
 oauthlib
-discord.py
 cachetools
 setuptools
 Async-OAuthlib
